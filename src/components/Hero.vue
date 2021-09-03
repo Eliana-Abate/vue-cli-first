@@ -1,6 +1,6 @@
 <template>
     <main class="jumbotron">
-
+        <img src="@/assets/img/jumbotron.png" alt="jumbotron">
     </main>
 
     
