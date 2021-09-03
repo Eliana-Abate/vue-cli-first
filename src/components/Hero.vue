@@ -12,6 +12,9 @@ export default {
 };
 </script>
 
-<style>
-
+<style scoped>
+    img {
+        margin-top: 60px;
+        border-radius: 40px;
+    }
 </style>
