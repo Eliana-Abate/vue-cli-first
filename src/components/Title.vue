@@ -14,7 +14,8 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 h1 {
-  color: rgb(255, 51, 0);
+  margin-top: 60px;
+  color: orangered;
 }
   
 </style>
